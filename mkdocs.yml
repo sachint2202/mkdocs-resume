@@ -1,0 +1,99 @@
+site_name: Sachin Tiwari
+nav:
+  - Home: index.md
+  - Experience: experience.md
+  - Skills & Tech-stack: skills.md
+  - Projects Undertaken: projects.md
+  - Education: education.md
+  - Rewards & Recognitions: recognition.md
+  - Interests & Hobbies: interests.md
+  - About Me: about.md
+theme:
+  features:
+    - navigation.tracking
+    - navigation.footer
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+    - content.tabs.link
+  favicon: images/favicon.png
+  icon:
+    logo: material/seed
+  language: en
+  font:
+    text: Google Sans
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  scheme: default
+  primary: cyan
+  accent: cyan
+
+extra:
+  generator: false
+
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/classicaldobby
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sachintiwari2058
+    - icon: fontawesome/brands/github
+      link: https://github.com/sachint2202
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@sachintiwari2
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<sachintiwari2058@gmail.com>
+
+copyright: Copyright &copy; 2023 &nbsp;Sachin Tiwari
+
+markdown_extensions:
+  - tables
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - def_list
+
+  - pymdownx.tasklist:
+      custom_checkbox: true
+plugins:
+  - tags
+#   - social:
+#       cards_color:
+#         fill: "#0FF1CE"
+#         text: "#FFFFFF"
