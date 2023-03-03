@@ -1,9 +1,11 @@
 # mkdocs-resume
 
-## Beautiful resume website developed using MkDocs and mkdocs-material
+Beautiful resume website developed using [MkDocs](https://www.mkdocs.org/) and [mkdocs-material](https://squidfunk.github.io/mkdocs-material)
 
-## Hosted on Netify
+Hosted on [Netlify](https://www.netlify.com)
 
-## View Live at https://sachintiwari.netlify.app/ 
+View Live at [Sachin Tiwari](https://sachintiwari.netlify.app) 
 
-Developed with :heart: by Sachin Tiwari
+Feel free to fork and create your own!
+
+Crafted with :heart: by Sachin Tiwari
