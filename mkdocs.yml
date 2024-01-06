@@ -62,7 +62,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<sachintiwari2058@gmail.com>
 
-copyright: Copyright &copy; 2023 &nbsp;Sachin Tiwari
+copyright: Copyright &copy; 2024 &nbsp;Sachin Tiwari
 
 markdown_extensions:
   - tables
