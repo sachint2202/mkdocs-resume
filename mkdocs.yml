@@ -8,6 +8,7 @@ nav:
   - Rewards & Recognitions: recognition.md
   - Interests & Hobbies: interests.md
   - About Me: about.md
+  - Downloads: download.md
 theme:
   features:
     - navigation.tracking

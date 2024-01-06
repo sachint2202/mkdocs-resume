@@ -10,6 +10,8 @@ hide:
 
 Experienced software engineer proficient in Angular, JavaScript, TypeScript, SQL Server, .NET Core, Github, Azure, and Python data science libraries.
 
+[Click here](https://shorturl.at/CI246) to view resume.
+
 ---
 
 - [Experience](./experience.md)
