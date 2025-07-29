@@ -4,7 +4,11 @@ hide:
   - toc
 ---
 
-# EXPERIENCE
+# EXPERIENCE 
+
+| :technologist: Current Role | :material-clock-time-four: Tenure | :map: Based In |
+| --- | --- | --- |
+| **Senior Software Engineer** | **5 years** | :flag_in: **Gurugram, Haryana, India**|
 
 ---
 
@@ -14,9 +18,13 @@ hide:
 
     _November 2022 - Present_
 
-    Worked on low-code technologies including MkDocs, Sharepoint, Github actions.
+    - Worked on low-code technologies including MkDocs, Sharepoint, Github actions, **Power Apps** and Power Automate.
 
-    Experience in delivering end-to-end project in Angular 9/TypeScript, SQL Server.
+    - Delivered applications with traffic **>10K **per day with user base **>30k users**.
+
+    - Maintaining central hub for organization's tool and reports data.
+
+    - Experience in delivering end-to-end project in **Angular 17/TypeScript**, SQL Server.
 
 <div style="border-left: 2px solid #ccc;height: 50px;margin: 0 20px;"></div>
 
@@ -26,11 +34,11 @@ hide:
 
     _August 2020 - October 2022_ **(26 months)**
 
-    Have worked on SQL Server database with Angular/JavaScript for front-end development and .NET core for the API.
+    - Have worked on SQL Server database with Angular/JavaScript for front-end development and .NET core for the API.
 
-    Worked in team with Agile and full stack development methodologies with development tasks including front-end development and database designing. Undergone AZ- 104 and AZ - 204 training for Azure. Azure - 900 certification holder.
+    - Worked in team with Agile and full stack development methodologies with development tasks including front-end development and database designing. Undergone AZ- 104 and AZ - 204 training for Azure. Azure - 900 certification holder.
 
-    Involved in developing end to end projects with experience on software development life-cycle of 5 critical projects.
+    - Involved in developing end to end projects with experience on software development life-cycle of 5 critical projects.
 
 <div style="border-left: 2px solid #ccc;height: 50px;margin: 0 20px;"></div>
 
@@ -40,9 +48,9 @@ hide:
 
     _June 2019 - July 2019_ **(2 months)**
 
-    POCs on API development to fetch data from databases and perform CRUD operations. Implemented with Python Flask framework and SQLite database feature.
+    - POCs on API development to fetch data from databases and perform CRUD operations. Implemented with Python Flask framework and SQLite database feature.
 
-    API development using .NET Core following MVC pattern and EF Core for data storage and retrieval.
+    - API development using .NET Core following MVC pattern and EF Core for data storage and retrieval.
 
 ---
 

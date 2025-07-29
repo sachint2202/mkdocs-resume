@@ -1,5 +1,4 @@
 # Downloads
 
-## Resume
 
-[Click here](https://shorturl.at/CI246)
+[:material-download: Download Resume](https://shorturl.at/aONAK){ .md-button .md-button--primary }

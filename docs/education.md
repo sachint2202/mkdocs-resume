@@ -8,19 +8,19 @@ hide:
 
 ---
 
-[**DR. B. R. Ambedkar National Institute of Technology, Jalandhar Punjab (NIT Jalandhar)**](https://www.nitj.ac.in/)  
+:books: [**DR. B. R. Ambedkar National Institute of Technology, Jalandhar Punjab (NIT Jalandhar)**](https://www.nitj.ac.in/)  
 _Electronics & Communication Engineering_
 <br>
-_2016 - 2020_
+:calendar: **2016 - 2020**
 <br>
 _**CGPA**: 8.47 (84.7%)_
 
 ---
 
-[**Udai Pratap Public School, Varanasi, Uttar Pradesh**](http://upps.in/)  
+:school: [**Udai Pratap Public School, Varanasi, Uttar Pradesh**](http://upps.in/)  
 _XII (PCM)_
 <br>
-_2014 - 2016_
+:calendar: **2014 - 2016**
 <br>
 _**Percentage**: 94.2%_
 

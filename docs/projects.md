@@ -8,7 +8,20 @@ hide:
 
 ---
 
-???+ info "Developing a platform to automate work contracts for Optum Vendors and Clients"
+???+ note "RTO Scheduling and compliance management Tool"
+   
+    ### Project Summary
+
+    Tool to automate seating arrangement for **30k+ employees** of Optum Philippines. The tool maintain daily working schedule, updation, compliance and outlier detection resulting in optimized seat utilisatiion and **>50% RTO**.
+
+    ### Methodology
+
+      - Worked on database and front-end development by using Angular 17, TypeScript and .NET&
+      - **Automated scheduling**, compliance and reporting
+      - Handing an average user traffic of 10k+ per day.
+      - **SSO authentication**, centralised RBAC, PowerBI integration and **Github Actions** Based CI/CD Pipelining.
+
+??? tip "Developing a platform to automate work contracts for Optum Vendors and Clients"
 
     ### Project Summary
 
@@ -35,7 +48,7 @@ hide:
 
      Angular 9, .NET Core, Kendo UI, SQL Server, Github Actions, Azure Web jobs
 
-??? info "Automated NPS score decrement factors of Claims related calls using Angular, Python and BARD libraries"
+??? example "Automated NPS score decrement factors of Claims related calls using Angular, Python and BARD libraries"
 
     ### Project Summary
 
@@ -56,7 +69,7 @@ hide:
 
     Angular 9, ngPrime, .NET Core, SQL Server, Github Actions
 
-??? info "Developing a documentation site for all the applications"
+??? success "Developing a documentation site for all the applications"
 
     ### Methodology
 

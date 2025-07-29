@@ -7,3 +7,6 @@
 :root.width-50 {
   width: 50% !important;
 }
+.md-typeset .grid.cards.skills {
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+}

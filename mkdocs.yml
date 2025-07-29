@@ -1,4 +1,7 @@
 site_name: Sachin Tiwari
+site_url: https://sachintiwari.netlify.app/
+site_author: Sachin Tiwari
+site_description: A website showcasing my skills, experience, and projects.
 nav:
   - Home: index.md
   - Experience: experience.md
@@ -19,9 +22,9 @@ theme:
     - navigation.top
     - toc.integrate
     - content.tabs.link
-  favicon: images/favicon.png
+  favicon: images/favicon_new.png
   icon:
-    logo: material/seed
+    logo: material/signature-freehand
   language: en
   font:
     text: Google Sans
@@ -30,8 +33,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: blue
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
@@ -39,14 +42,14 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
   scheme: default
-  primary: cyan
-  accent: cyan
+  primary: indigo
+  accent: indigo
 
 extra:
   generator: false
@@ -63,8 +66,10 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<sachintiwari2058@gmail.com>
 
-copyright: Copyright &copy; 2024 &nbsp;Sachin Tiwari
+copyright: Copyright &copy; 2025 &nbsp;Sachin Tiwari
 
+extra_css:
+  - stylesheets/extra.css # or wherever your CSS lives
 markdown_extensions:
   - tables
   - abbr
@@ -87,14 +92,13 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.emoji
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.blocks.caption
   - def_list
-
   - pymdownx.tasklist:
       custom_checkbox: true
 plugins:
   - tags
-#   - social:
-#       cards_color:
-#         fill: "#0FF1CE"
-#         text: "#FFFFFF"
+  #- social
