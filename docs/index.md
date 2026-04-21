@@ -8,9 +8,14 @@ hide:
 
 ---
 
-Experienced software engineer proficient in full-stack development in latest frontend technologies **(Angular, React, NextJS)**, APIdevelopment **(FastAPI, .NET 7)** and database development **(SQL Server)**. 
+Senior Software Engineer with **5+ years** at **Optum (UnitedHealth Group)** specialising in full-stack development, enterprise
+process automation, and cloud optimisation. Delivered automation solutions managing **$2.5M+** in contract revenue for
+8,000+ vendor contracts, saved **$25K/month in cloud costs**, and impacted **40,000+ employees**. 
 
-I have been working on Power Apps Development **(Power App, SharePoint, Power Automate, Dataverse)** and Generative AI.
+Experienced in AI
+integration (OpenAI), Azure, Power Apps Development **(Power App, SharePoint, Power Automate, Dataverse)**  and leading **end-to-end client engagements** and  in full-stack development in latest frontend technologies **(Angular, React, NextJS)**, APIdevelopment **(FastAPI, .NET 7)** and database development **(SQL Server)**. 
+
+
 
 
 ---
@@ -26,7 +31,7 @@ I have been working on Power Apps Development **(Power App, SharePoint, Power Au
 </div>
 
 ---
-[:material-download: Download Resume](https://shorturl.at/aONAK){ .md-button .md-button--primary }
+[:material-download: Download Resume](https://shorturl.at/cpKyJ){ .md-button .md-button--primary }
 
 [![Instagram](./images/svg/Instagram_icon.svg)](https://www.instagram.com/classicaldobby){.md-social\_\_link .md-social}
 [![Github](./images/svg/Github_icon.svg)](https://github.com/sachint2202){.md-social\_\_link .md-social}

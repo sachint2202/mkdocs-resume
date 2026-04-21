@@ -8,23 +8,34 @@ hide:
 
 | :technologist: Current Role | :material-clock-time-four: Tenure | :map: Based In |
 | --- | --- | --- |
-| **Senior Software Engineer** | **5 years** | :flag_in: **Gurugram, Haryana, India**|
+| **Senior Software Engineer I** | **5+ years** | :flag_in: **Gurugram, Haryana, India**|
 
 ---
+
+???+ tip "Senior Software Engineer I"
+
+    ### **Optum (United Health Group)**
+
+    _April 2026 - Present_
+
+    - Own full SDLC — ideation, requirements, architecture, development, and maintenance of enterprise automation products.
+
+    - Lead client and senior-leader **process-design sessions**; integrate **OpenAI APIs **for **AI-driven insights** in enterprise workflow tools.
+
+    - Coordinate team task distribution to sustain **delivery velocity** on high-priority automation initiatives.
+
+<div style="border-left: 2px solid #ccc;height: 50px;margin: 0 20px;"></div>
 
 ???+ tip "Senior Software Engineer"
 
     ### **Optum (United Health Group)**
 
-    _November 2022 - Present_
+    _December 2022 - March 2026 **(40 months)**_
 
-    - Worked on low-code technologies including MkDocs, Sharepoint, Github actions, **Power Apps** and Power Automate.
-
-    - Delivered applications with traffic **>10K **per day with user base **>30k users**.
-
-    - Maintaining central hub for organization's tool and reports data.
-
-    - Experience in delivering end-to-end project in **Angular 17/TypeScript**, SQL Server.
+    - SOW Automation: Architected and developed vendor contract management for **8,000+ contracts** with audit-compliant workflows, dynamic reporting, and streamlined approvals — generating **$2.5M** in revenue.
+    - Cloud Optimisation: Migrated 12 Azure App Service websites to AWS S3 with zero downtime, saving **$25,000/month (~$300K/year)**.
+    - Workforce Compliance: Built RTO scheduling and seat-optimisation system for Philippines operations, impacting **40,000+ employees** including notification, reporting and compliance audit.
+    - Issue Automation: Automated vendor issue lifecycle (creation, approval, notification) via **Power Automate** and **.NET WebJobs,** eliminating manual tracking overhead.
 
 <div style="border-left: 2px solid #ccc;height: 50px;margin: 0 20px;"></div>
 
@@ -32,7 +43,7 @@ hide:
 
     ### **Optum (United Health Group)**
 
-    _August 2020 - October 2022_ **(26 months)**
+    _August 2020 - November 2022_ **(27 months)**
 
     - Have worked on SQL Server database with Angular/JavaScript for front-end development and .NET core for the API.
 

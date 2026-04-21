@@ -12,8 +12,9 @@ hide:
 
 ## :trophy: Optum Rewards
 
+- EWO Impact Maker Award from Optum for February 2026
 - Optum Superhero Nominee for holistic year wise performance
-- 15 Internal Bravo Awards
+- 8 Internal Bravo Awards
 
 ## :material-certificate: Certifications
 

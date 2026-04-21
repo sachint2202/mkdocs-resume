@@ -8,11 +8,25 @@ hide:
 
 ---
 
+???+ example "CAPA & PCCF based Vendor Issue Management & Auditing Application"
+
+    ### Project Summary
+
+    Optum handles 100+ vendor products. Managing the issues related to project is mostly manual with a team recording everything on a Sharepoint page, getting clarification and fix from respective vendors using email and then maintaining record for auditing purpose. 
+    This project simplifies the flow with minimal human interaction. Creation and tracking of issue is maintained via **Angular application** with all data stored in **T-SQL database** for audit and easy maintenance. **Email based notification**, automated approval systems and **AI based issue fixing insights** ensures all round automation with total compliance.
+
+    ### Tools & Methodology
+
+    - Open AI APIs from instruction-tuned insights.
+    - **Angular 19** based web application hosted over **AWS S3** for cost optimization and performance.
+    - .NET 8 based API for super quick performance
+    - .NET based **webjobs** for cheaper automation option
+
 ???+ note "RTO Scheduling and compliance management Tool"
    
     ### Project Summary
 
-    Tool to automate seating arrangement for **30k+ employees** of Optum Philippines. The tool maintain daily working schedule, updation, compliance and outlier detection resulting in optimized seat utilisatiion and **>50% RTO**.
+    Tool to automate seating arrangement for **40k+ employees** of Optum Philippines. The tool maintain daily working schedule, updation, compliance and outlier detection resulting in optimized seat utilisatiion and **>80% RTO**.
 
     ### Methodology
 

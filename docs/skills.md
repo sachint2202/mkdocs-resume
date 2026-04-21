@@ -11,13 +11,13 @@ hide:
 ### **Frontend Technologies**
 
 <div class="grid cards skills" markdown>
-- :material-angular: Angular 17
+- :material-angular: Angular 6-19
 - :simple-nextdotjs: NextJS
 - :simple-tailwindcss: TailwindCSS
 - :simple-javascript: TypeScript/JavaScript
 - :simple-materialformkdocs: MkDocs
 - Kendo UI
-- :simple-primeng: ngPrime
+- :simple-primeng: Prime Ng
 - :simple-bootstrap: Bootstrap 5
 - :material-angularjs: Angular Material
 - :simple-html5: HTML5
@@ -35,7 +35,9 @@ hide:
 ### **API Development**
 <div class="grid cards skills" markdown>
 - :simple-dotnet: .NET 7
+- :simple-dotnet: .NET Webjobs
 - :simple-fastapi: FastAPI
+- :fontawesome-brands-openai: Open AI API Integration
 </div>
 
 ### **Low Code Technologies**
