@@ -31,7 +31,7 @@ integration (OpenAI), Azure, Power Apps Development **(Power App, SharePoint, Po
 </div>
 
 ---
-[:material-download: Download Resume](https://tinyurl.com/sachintiwari){ .md-button .md-button--primary }
+[:material-download: Download Resume](https://drive.google.com/file/d/1DVW28k9lpCOta5WzSQlmCAzicAPG8Kdn/view){ .md-button .md-button--primary }
 
 [![Instagram](./images/svg/Instagram_icon.svg)](https://www.instagram.com/classicaldobby){.md-social\_\_link .md-social}
 [![Github](./images/svg/Github_icon.svg)](https://github.com/sachint2202){.md-social\_\_link .md-social}
